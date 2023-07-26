@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(214, 208, 208);
+    text-align: center;
+
+}
+form{
+    width: 22%;
+    margin: 200px auto;
+    padding:150 50 150 50px;
+    background: #303b39;
+    color: white;
+    border-radius: 15px ;
+    font-size: 20px;
+}
+.submitbtn{
+    color: rgb(3, 3, 3);
+    background-color: white;
+    border: none;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+ 
+}
